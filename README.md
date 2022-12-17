@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owen Russell</h1>
 <h3 align="center">Current Computer Science Student</h3>
 
-- 🔭 I’m currently developing **Discord Bot Networks**
+- 🔭 I’m currently developing a **Discord Bot Network**
 
 - 🌱 Currently learning **Haskell, NodeJS, and Reverse Engineering**
 
