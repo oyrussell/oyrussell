@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently developing a **Discord Bot Network**
 
-- 🌱 Currently learning **Haskell, NodeJS, and Reverse Engineering**
+- 🌱 Learning **React, NodeJS, and Reverse Engineering**
 
 - 🪀 Currently playing around with **HacktheBox**
 
