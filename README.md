@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Owen Russell</h1>
 <h3 align="center">Current Computer Science Student</h3>
 
-- 🔭 I’m currently developing a **Discord Bot Network**
+- 🔭 Currently developing a **Discord Bot Network**
 
 - 🌱 Learning **React, NodeJS, and Reverse Engineering**
 
-- 🪀 Currently playing around with **HacktheBox**
+- 🪀 Playing around with **HacktheBox**
 
 <!--- 📫 How to reach me **oweny.russell@gmail.com** --->
 
