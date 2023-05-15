@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen Russell</h1>
-<h3 align="center">Current Computer Science Student</h3>
+<h3 align="center">Bachelor of Science Computer Science</h3>
 
 - 🔭 Currently developing a **Discord Bot Network**
 
