@@ -5,7 +5,7 @@
 
 - 🔭 Currently developing a **Discord Bot Network**
 
-- 🌱 Learning , Reverse Engineering, Forensics, Penetration Testing, Operating System Design, Infrastructure Automation, CI/CD & DevOps, System Architecture, RHEL8+, **
+- 🌱 Learning: **Reverse Engineering, Forensics, Penetration Testing, Operating System Design, Infrastructure Automation, CI/CD & DevOps, System Architecture, RHEL8+**
 
 - 🪀 Playing around with **HacktheBox**
 
