@@ -2,8 +2,8 @@
 <h3 align="center">Bachelor of Science Computer Science</h3>
 
 - 🏢💻 Current Role: **Linux Systems Engineer at Lockheed Martin**
-      -> Involved in IaaS and IaC developmet
-      -> Involved in Full Scope Cybersecurity software development
+      <p>-> Involved in IaaS and IaC developmet</p>
+      <p>-> Involved in Full Scope Cybersecurity software development</p>
 - 🔭 Currently developing a **Discord Bot Network**
 
 - 🌱 Learning , Reverse Engineering, Forensics, Penetration Testing, Operating System Design, Infrastructure Automation, CI/CD & DevOps, System Architecture, RHEL8+, **
