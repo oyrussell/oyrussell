@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Owen Russell</h1>
 <h3 align="center">Bachelor of Science Computer Science</h3>
 
-- 🏢💻 Current Role: **Linux Systems Engineer at Lockheed Martin**
-      <p>-> Involved in IaaS and IaC developmet</p>
-      <p>-> Involved in Full Scope Cybersecurity software development</p>
+- 🏢💻 Current Role: **Linux Systems Engineer at Lockheed Martin** [IaaS and IaC developmet + Full Scope Cybersecurity software development]
+
 - 🔭 Currently developing a **Discord Bot Network**
 
 - 🌱 Learning , Reverse Engineering, Forensics, Penetration Testing, Operating System Design, Infrastructure Automation, CI/CD & DevOps, System Architecture, RHEL8+, **
