@@ -3,7 +3,7 @@
 
 - 🏢💻 Current Role: **Linux Systems Engineer at Lockheed Martin** 
 
-- 🔭 Currently developing a **Discord Bot Network**
+- 🔭 Currently developing an **iOS Application for Life Planning**
 
 - 🌱 Learning: **Reverse Engineering, Forensics, Penetration Testing, Operating System Design, Infrastructure Automation, CI/CD & DevOps, System Architecture, RHEL8+**
 
